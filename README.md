@@ -36,10 +36,9 @@ Aspiring **Front-End / Full-Stack Developer** based in Poland, focused on buildi
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=budinave&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=budinave&layout=compact&theme=radical)
+![GitHub Streak](https://ninja-github-readme-streak-stats.vercel.app/?user=budinave&theme=radical)
 
 ---
 
