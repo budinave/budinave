@@ -38,8 +38,8 @@ Aspiring **Front-End / Full-Stack Developer** based in Poland, focused on buildi
 
 ### 📊 GitHub Activity
 
-![GitHub Streak](https://ninja-github-readme-streak-stats.vercel.app/?user=budinave&theme=radical)
-
+> 🚀 **Status:** Setting up my dev environment & starting Week 1 (HTML5 & CSS3).  
+> *Live stats & language breakdown will activate after the first project push!*
 ---
 
 ### 📬 How to reach me
