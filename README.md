@@ -18,12 +18,11 @@ Aspiring **Front-End / Full-Stack Developer** based in Poland, focused on buildi
 
 #### **Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS_3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 
 #### **Backend & Database (Upcoming)**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -32,10 +31,12 @@ Aspiring **Front-End / Full-Stack Developer** based in Poland, focused on buildi
 #### **Tools & Workflow**
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS_Code](https://img.shields.io/badge/-VSCode%20-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/bitcoin-%232F3134.svg?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%234285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
----
 
 ### 📊 GitHub Activity
 
